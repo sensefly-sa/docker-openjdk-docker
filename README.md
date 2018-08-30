@@ -1,3 +1,3 @@
-# docker-openjdk-docker
+# Docker OpenJDK Docker
 
 OpenJDK image with Docker &amp; Docker-Compose
